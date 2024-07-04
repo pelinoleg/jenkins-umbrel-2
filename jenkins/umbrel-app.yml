@@ -1,0 +1,27 @@
+manifestVersion: 1
+id: jenkins
+name: Jenkins
+tagline: Jenkins
+icon: https://svgshare.com/i/17su.svg
+category: tools
+version: "1.0.0"
+port: 8181
+description: >-
+  Jenkins is an open-source automation server for continuous integration and delivery. It provides a user-friendly web interface for building, testing, and deploying applications, enabling developers to automate tasks and streamline the software development process.
+
+developer: Pelin Oleg
+website: https://github.com/pelinoleg/jenkins-umbrel-2
+submitter: Pelin Oleg
+submission: https://github.com/pelinoleg/jenkins-umbrel-2
+repo: https://github.com/pelinoleg/jenkins-umbrel-2
+support: https://github.com/pelinoleg/jenkins-umbrel-2/issues
+
+gallery:
+  - https://testeandosoftware.com/wp-content/uploads/2015/01/Jenkins.png
+
+releaseNotes: >-
+  Initial release of Jenkins on Umbrel.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
