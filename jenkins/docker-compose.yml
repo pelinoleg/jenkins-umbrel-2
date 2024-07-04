@@ -10,4 +10,5 @@ services:
     container_name: jenkins
     volumes:
       - /home/umbrel/umbrel/my-configs/jenkins-config:/var/jenkins_home  # Ваш путь для конфигурации
+      - /home/umbrel/umbrel/my-configs:/host/my-configs
       - /var/run/docker.sock:/var/run/docker.sock
